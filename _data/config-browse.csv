@@ -1,5 +1,4 @@
 field,display_name,btn,hidden,sort_name
-date,Date,,,Date
-creator,Creator,,,
-subject,,true
+term_type,Term Type,true
+related_term,Related Term,true
 location,,true
