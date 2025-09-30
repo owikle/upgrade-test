@@ -1,5 +1,8 @@
 field,display_name,browse_link,external_link
 title,Title,
+term_type,Term Type,true
+establish_date,Date Established
+related_term,Related Term,true
 creator,Creator,
 date,Date Created,
 description,Description,
